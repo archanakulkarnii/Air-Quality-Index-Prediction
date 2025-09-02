@@ -1,5 +1,5 @@
-Air Quality Index (AQI) Prediction
-
+**Air Quality Index (AQI) Prediction
+**
 This project predicts the Air Quality Index (AQI) based on key air pollutant concentrations using a Linear Regression model.
 It features a Tkinter-based user interface where users can input pollutant values, predict AQI, and visualize actual vs predicted results.
 
@@ -57,6 +57,7 @@ Users enter pollutant concentrations in the Tkinter interface.
 The app predicts AQI and displays the AQI value and category.
 
 Clicking "Plot Results" shows a comparison graph of actual vs predicted AQI.
+
 
 📌 Example
 
